@@ -1,0 +1,13 @@
+* {
+  color: #525252;
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+
+}
+#main {
+  margin-top: 50px;
+  text-align: center;
+}
+#footer {
+  color: #FFFFFF;
+}
